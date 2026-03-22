@@ -1,4 +1,11 @@
-streamlit
-google-generativeai
+fastapi
+uvicorn[standard]
+python-multipart
+jinja2
+pdfplumber
+google-genai
 python-dotenv
-pdf2image
+joblib
+scikit-learn
+numpy
+pandas
